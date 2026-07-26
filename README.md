@@ -1,17 +1,18 @@
-# I make AI agents observable and deterministic in production.
+# Software engineer.
 
-Platform / infra engineer, 10+ years (Cybereason, DealHub). I build the boring
-infrastructure that makes agents reliable: LLM gateways, MCP tracing, and agent
-pipelines on Kubernetes.
+I build systems and the tools around them.
 
-### Featured work
+Right now that's agentic engineering — harnesses, MCP tracing, control planes,
+and observability for agent runs.
+
+### Work
 
 | Repo | What it does |
 | --- | --- |
-| [mcp-trace](https://github.com/anhermon/mcp-trace) | Emits OpenTelemetry spans for MCP — a span per JSON-RPC tool call, via a transparent Go proxy. |
-| [anvil](https://github.com/anhermon/anvil) | Provider-agnostic agent harness, written in Rust. |
-| [agent-tower](https://github.com/anhermon/agent-tower) | Control plane for managing and observing multiple agent harnesses. |
-| [obs-dashboard](https://github.com/anhermon/obs-dashboard) | Real-time, multi-harness agent observability dashboard. |
+| [mcp-trace](https://github.com/anhermon/mcp-trace) | Transparent Go proxy for MCP servers. One OpenTelemetry span per JSON-RPC tool call, no changes to server or client. |
+| [anvil](https://github.com/anhermon/anvil) | Provider-agnostic agent harness in Rust. One binary, any LLM. |
+| [agent-tower](https://github.com/anhermon/agent-tower) | Control plane for running and comparing multiple agent harnesses. |
+| [obs-dashboard](https://github.com/anhermon/obs-dashboard) | Real-time observability dashboard for agent runs across harnesses. |
 | [claude-public](https://github.com/anhermon/claude-public) | Installable Claude Code plugins and skills. |
 
 ### Stack
@@ -23,6 +24,6 @@ pipelines on Kubernetes.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat&logo=opentelemetry&logoColor=white)
 
-### Available for AI-infra consulting
+---
 
-LinkedIn (soon) · [dev.to/@anhermon](https://dev.to/@anhermon) (soon) · Personal site (soon)
+Open to freelance and contract work. Reach me at angel.hermon.mail@gmail.com.
