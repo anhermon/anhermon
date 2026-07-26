@@ -13,7 +13,6 @@ and observability for agent runs.
 | [anvil](https://github.com/anhermon/anvil) | Provider-agnostic agent harness in Rust. One binary, any LLM. |
 | [agent-tower](https://github.com/anhermon/agent-tower) | Control plane for running and comparing multiple agent harnesses. |
 | [obs-dashboard](https://github.com/anhermon/obs-dashboard) | Real-time observability dashboard for agent runs across harnesses. |
-| [claude-public](https://github.com/anhermon/claude-public) | Installable Claude Code plugins and skills. |
 
 ### Stack
 
