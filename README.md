@@ -12,7 +12,6 @@ and observability for agent runs.
 | [mcp-trace](https://github.com/anhermon/mcp-trace) | Transparent Go proxy for MCP servers. One OpenTelemetry span per JSON-RPC tool call, no changes to server or client. |
 | [anvil](https://github.com/anhermon/anvil) | Provider-agnostic agent harness in Rust. One binary, any LLM. |
 | [agent-tower](https://github.com/anhermon/agent-tower) | Control plane for running and comparing multiple agent harnesses. |
-| [obs-dashboard](https://github.com/anhermon/obs-dashboard) | Real-time observability dashboard for agent runs across harnesses. |
 
 ### Stack
 
