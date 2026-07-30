@@ -2,8 +2,8 @@
 
 Software engineer. I build systems and the tools around them.
 
-Right now that's agentic engineering — harnesses, MCP tracing, control planes,
-and observability for agent runs.
+Right now that's agentic engineering — harnesses, MCP tracing, and
+observability for agent runs.
 
 ### Work
 
